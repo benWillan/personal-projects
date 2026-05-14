@@ -37,7 +37,7 @@ Trade Simulator is a stock trading simulation tool designed to replicate the cor
     Entity Framework Core
 
 ### Screenshots
-<img width="1747" height="1043" alt="chrome_oPhiMQW5D5" src="https://github.com/user-attachments/assets/557d61f5-3805-4fd3-9311-07dac32d58b3" />
+<img width="1747" height="1043" alt="chrome_oPhiMQW5D5" src="https://github.com/user-attachments/assets/92963b30-501a-4451-905e-1f1a89a52339" />
 <img width="2558" height="1266" alt="image" src="https://github.com/user-attachments/assets/a7326b7a-c39e-4933-bb8d-d8ff184b9fc6" />
 <img width="2558" height="1267" alt="image" src="https://github.com/user-attachments/assets/ee9d7336-9219-4db8-8c0a-a7a6b35c3cf2" />
 <img width="2560" height="1271" alt="chrome_zuH8cq5lV6" src="https://github.com/user-attachments/assets/6f8a7af7-f2fb-4c40-94dc-922c8c3211e0" />
